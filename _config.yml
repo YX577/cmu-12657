@@ -1,0 +1,5 @@
+theme: jekyll-theme-architect
+title: 12657 Climate Change Impacts at the Yakima River Basin
+markdown: kramdown
+github:
+  is_project_page: false
